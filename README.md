@@ -7,6 +7,11 @@ https://elmas3.github.io/mao-seminar/
 张继科
 马龙
 许昕
+# 游戏内容
+乒乓球
+羽毛球
+左爱
+打飞机
 # 目录
 ```
 seminar/
